@@ -1,0 +1,6 @@
+TODO výskumná časť po diskusii so školiteľom (1.10.2023)
+
+- použiť dataset https://lcmou.github.io/ERA_Dataset/
+- overiť modely, ktoré sú použité na datsete
+- pridať vlastné modely na datasete
+- interpretovať výsledky + štatistika
